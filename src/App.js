@@ -27,7 +27,10 @@ export const App = () => {
       <Content>
         <Collapse>{renderQuestions}</Collapse>
       </Content>
-      {/* <Footer>Footer</Footer> */}
+      <Footer>
+        Для внесения правок создать issue в репозитории
+        https://github.com/VeronikaMishkovec/interview-questions/issues
+      </Footer>
     </Layout>
   )
 }
