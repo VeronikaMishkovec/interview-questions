@@ -3,3 +3,4 @@
 3. Аналитика
 4. Push-нотификация
 5. Добавление Splashscreen
+6. interceptors в axios
